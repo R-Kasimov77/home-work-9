@@ -8,15 +8,7 @@ void main() {
 
   print(birthday(2021, 2003, 18));
   print(chisla([4,5,4,8,2,1,3]));
-  // print(oddEven([1,2,3,4,5,6,7,8,9]));
-
- 
-
-
-
 }
-
-
 // 3 Взять массив и используя for вывести в отдельные 2
 // списка честные и нечетные числа
 List<List<int>> chisla(List<int> nums) {
