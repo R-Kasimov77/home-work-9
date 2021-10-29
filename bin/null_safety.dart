@@ -4,6 +4,7 @@ void main() {
   String a = "";
   int b = 2;
   bool c = true;
+  double d = 22.3; 
 
   print(birthday(2021, 2003, 18));
   print(chisla([4,5,4,8,2,1,3]));
